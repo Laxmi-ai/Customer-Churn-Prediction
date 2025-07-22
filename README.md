@@ -16,7 +16,7 @@ This is a **Streamlit-based web app** that predicts whether a customer will chur
 
 ## 📊 Demo
 
-👉 **Live App**: [Coming Soon]  
+👉 **Live App**: []  
 👉 **Demo Video**:  
 👉 **Dataset**: [Telco Customer Churn - Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
