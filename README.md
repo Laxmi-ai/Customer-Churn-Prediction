@@ -16,7 +16,7 @@ This is a **Streamlit-based web app** that predicts whether a customer will chur
 
 ## 📊 Demo
 
-👉 **Live App**: []  
+👉 **Live App**: [https://customer-churn-prediction-kvc7jdju6gzzxpzd6djahb.streamlit.app/]  
 👉 **Demo Video**:  
 👉 **Dataset**: [Telco Customer Churn - Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
@@ -27,7 +27,7 @@ This is a **Streamlit-based web app** that predicts whether a customer will chur
 ```
 telco_churn_app/
 │
-├── app.py                    # Streamlit frontend app
+├── app.py                    # Streamlit frontend ap
 ├── telco_churn_pipeline.py  # Model training pipeline
 ├── customer_churn_model.pkl # Trained model file
 ├── encoders.pkl             # Encoders used for preprocessing
@@ -39,12 +39,7 @@ telco_churn_app/
 
 ## 🛠 Installation & Running Locally
 
-### 1️⃣ Clone the Repo
 
-```bash
-git clone https://github.com/Laxmi-ai/telco_churn_app.git
-cd telco_churn_app
-```
 
 ### 2️⃣ Install Dependencies
 
