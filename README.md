@@ -1,4 +1,4 @@
-# 📉 Telco Churn Prediction App
+# 📉 customers Churn Prediction 
 
 This is a **Streamlit-based web app** that predicts whether a customer will churn (leave) or not for a telecom company. The app uses a machine learning model trained on the **Telco Customer Churn dataset** from Kaggle.
 
